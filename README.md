@@ -7,14 +7,20 @@ Contenido:
 - Conversión entre monedas (USD, MXN, ARS, etc.)
 - Historial de conversiones con fecha y hora
 - Interfaz por consola
-- 
-Desarrollado con:
+  
+2) Desarrollado con:
 - Java 
 - Maven
 - Gson
 - API: URL = "https://v6.exchangerate-api.com/v6/5747981274751a78c485eb0f/latest/USD"
 
-Monedas Disponible
+3)Exite un Menu en el cual trabajar la conversion de moneda para ello deberas elegir las opciones:
+- 1. Convertir monedas (mostrará moneda de origen, moneda a convertir, cantidad y resultado)
+- 2. Ver historial de conversiones (mostrará el historico de las conversiones realizadas)
+- 3. Ver monedas disponibles (mostrará las monedas disponibles que estan asignadas en el proyecto)
+- 4. Salir 
+
+4) Monedas Disponible
 
 Código	Moneda	País o Región
 AUD	Dólar australiano	Australia
